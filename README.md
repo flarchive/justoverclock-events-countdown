@@ -2,13 +2,21 @@
 
 > **Read-only archive of released versions of justoverclock/events-countdown.** Not for installation: use [Packagist](https://packagist.org/packages/justoverclock/events-countdown) or the [upstream repository](https://github.com/justoverclockl/events-countdown).
 
-**0** versions archived · Latest: [`0.1.8`](https://github.com/flarchive/justoverclock-events-countdown/tree/archive/v0.1.8) · License: `MIT` · Flarum: `^1.0.0`
+**9** versions archived · Latest: [`0.1.8`](https://github.com/flarchive/justoverclock-events-countdown/tree/archive/v0.1.8) · License: `MIT` · Flarum: `^1.0.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.0` | 2021-08-05 | `^1.0.0` | [Browse](https://github.com/flarchive/justoverclock-events-countdown/tree/archive/v0.1.0) |
+| `0.1.1` | 2021-08-05 | `^1.0.0` | [Browse](https://github.com/flarchive/justoverclock-events-countdown/tree/archive/v0.1.1) |
+| `0.1.2` | 2021-08-05 | `^1.0.0` | [Browse](https://github.com/flarchive/justoverclock-events-countdown/tree/archive/v0.1.2) |
+| `0.1.3` | 2021-08-05 | `^1.0.0` | [Browse](https://github.com/flarchive/justoverclock-events-countdown/tree/archive/v0.1.3) |
+| `0.1.4` | 2021-08-05 | `^1.0.0` | [Browse](https://github.com/flarchive/justoverclock-events-countdown/tree/archive/v0.1.4) |
+| `0.1.5` | 2021-08-06 | `^1.0.0` | [Browse](https://github.com/flarchive/justoverclock-events-countdown/tree/archive/v0.1.5) |
+| `0.1.6` | 2021-08-10 | `^1.0.0` | [Browse](https://github.com/flarchive/justoverclock-events-countdown/tree/archive/v0.1.6) |
+| `0.1.7` | 2021-08-12 | `^1.0.0` | [Browse](https://github.com/flarchive/justoverclock-events-countdown/tree/archive/v0.1.7) |
+| `0.1.8` | 2021-08-12 | `^1.0.0` | [Browse](https://github.com/flarchive/justoverclock-events-countdown/tree/archive/v0.1.8) |
 
 Catalog entry: [packages/justoverclock-events-countdown.json](https://github.com/flarchive/archive-index/blob/main/packages/justoverclock-events-countdown.json)
 
